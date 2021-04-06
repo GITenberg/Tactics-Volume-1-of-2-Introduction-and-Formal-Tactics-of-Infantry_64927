@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '53099'
     url: http://www.gutenberg.org/2009/agents/53099
     wikipedia: https://en.wikipedia.org/wiki/Walter_Krueger
+covers:
+- cover_type: archival
+  image_path: 64927-h/images/cover.jpg
 creator:
   author:
     agent_name: Balck, W. (William)
@@ -20,6 +23,8 @@ creator:
     - https://de.wikipedia.org/wiki/William_Balck
     - https://en.wikipedia.org/wiki/William_Balck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64927#Tactics-Volume-1-of-2-Introduction-and-Formal-Tactics-of-Infantry
 gutenberg_issued: '2021-03-26'
 gutenberg_type: Text
 identifiers:
