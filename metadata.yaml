@@ -1,0 +1,37 @@
+_repo: Tactics-Volume-1-of-2-Introduction-and-Formal-Tactics-of-Infantry_64927
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Krueger, Walter
+    birthdate: 1881
+    deathdate: 1967
+    gutenberg_agent_id: '53099'
+    url: http://www.gutenberg.org/2009/agents/53099
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Krueger
+creator:
+  author:
+    agent_name: Balck, W. (William)
+    alias: Balck, William
+    birthdate: 1859
+    deathdate: 1924
+    gutenberg_agent_id: '53098'
+    url: http://www.gutenberg.org/2009/agents/53098
+    wikipedia:
+    - https://de.wikipedia.org/wiki/William_Balck
+    - https://en.wikipedia.org/wiki/William_Balck
+description: ''
+gutenberg_issued: '2021-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tactics'
+- !lcc 'U'
+- !lcsh 'Military art and science'
+- GITenberg
+title: Tactics, Volume 1 (of 2). Introduction and Formal Tactics of Infantry
+url: http://www.gutenberg.org/ebooks/64927
